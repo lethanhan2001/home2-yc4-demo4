@@ -34,21 +34,21 @@ export const servicesData: Services[] = [
   {
     id: 1,
     title:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id magnis at placerat pulvinar euismod neque.",
+      "Non parturient amet, feugiat tellus sagittis, scelerisque eget nulla turpis.",
     name: "Beauty consultation",
     image: Image1,
   },
   {
     id: 2,
     title:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id magnis at placerat pulvinar euismod neque.",
+      "Non parturient amet, feugiat tellus sagittis, scelerisque eget nulla turpis.",
     name: "Skin treatments",
     image: Image2,
   },
   {
     id: 3,
     title:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam id magnis at placerat pulvinar euismod neque.",
+      "Non parturient amet, feugiat tellus sagittis, scelerisque eget nulla turpis.",
     name: "Beauty product",
     image: Image3,
   },

@@ -18,12 +18,12 @@ const ImageItem = styled("div")`
 `;
 
 const Img = styled("img")`
-  ${tw`mx-auto first:mr-[40px] `}
+  ${tw`mx-auto `}
 `;
 
 const Title = styled("span")`
   ${tw`
-   text-sm font-normal mt-5 py-0 px-3 text-desc  flex justify-center items-center tracking-[1.8px]
+   text-sm ml-2 font-normal mt-5 py-0 px-3 text-desc  flex justify-center items-center tracking-[1.8px]
 `}
 `;
 
